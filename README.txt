@@ -8,7 +8,7 @@ let g:renpy_exepath="e:/Soft/renpy-6.14.1-sdk/renpy.exe" "renpy.exe‚Ìpath
 
 
 This plugin allow you to execute a renpy game by vim.
-But this plugin can't treat a path containning a space.
+But this plugin can't treat a path containing a space.
 
 
 Setting:
