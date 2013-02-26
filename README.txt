@@ -1,12 +1,12 @@
-vim‚©‚çRen'Py‚ğŠJ‚­plugin
-‚¢‚¿‚¢‚¿ƒ‰ƒ“ƒ`ƒƒ[‚ğŠJ‚©‚È‚­‚Ä‚æ‚¢‚Ì‚ÅAŠy‚É‚È‚éB
-‹ó”’‚ğŠÜ‚ŞƒpƒX‚É‚Íg‚¦‚È‚¢B
+vimã‹ã‚‰Ren'Pyã‚’é–‹ãplugin
+ã„ã¡ã„ã¡ãƒ©ãƒ³ãƒãƒ£ãƒ¼ã‚’é–‹ã‹ãªãã¦ã‚ˆã„ã®ã§ã€æ¥½ã«ãªã‚‹ã€‚
+ç©ºç™½ã‚’å«ã‚€ãƒ‘ã‚¹ã«ã¯ä½¿ãˆãªã„ã€‚
 
-İ’è:
-let g:renpyopen_use_vimproc=1 "vimproc‚ğg‚¤‚©?
-let g:renpy_exepath="e:/Soft/renpy-6.14.1-sdk/renpy.exe" "renpy.exe‚Ìpath
+è¨­å®š:
+let g:renpyopen_use_vimproc=1 "vimprocã‚’ä½¿ã†ã‹?
+let g:renpy_exepath="e:/Soft/renpy-6.14.1-sdk/renpy.exe" "renpy.exeã®path
 
-g‚¦‚éƒRƒ}ƒ“ƒh:
+ä½¿ãˆã‚‹ã‚³ãƒãƒ³ãƒ‰:
 RenPyExe
 
 This plugin allow you to execute a renpy game by vim.
