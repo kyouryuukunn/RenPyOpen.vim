@@ -9,8 +9,8 @@ setlocal cpo&vim
 
 if !exists("*s:RenPyExe")
 function s:RenPyExe()
-	" expand("%:p:h")はファイルがカレントドライブにあったらドライブレター
-	" なし、あったらあり
+	" expand("%:p:h")縺ｯ繝輔ぃ繧､繝ｫ縺後き繝ｬ繝ｳ繝医ラ繝ｩ繧､繝悶↓縺ゅ▲縺溘ｉ繝峨Λ繧､繝悶Ξ繧ｿ繝ｼ
+	" 縺ｪ縺励√≠縺｣縺溘ｉ縺ゅｊ
 	if g:renpyopen_use_vimproc == 1
 		exec ':call vimproc#system_bg('''.g:renpy_exepath.' '.s:renpy_gamepath.''')'
 	else
